@@ -2,7 +2,10 @@
 
 1.**Sales Analytics:** Generate a customer performance report. Perform a comprehensive comparison between market performance and sales targets.
 
-2.**Finance Analytics:** Create Profit and Loss (P&L) reports by Fiscal Year. Generate Profit and Loss (P&L) reports by Markets. Purpose: Sales Analytics empowers businesses to monitor and evaluate sales activities and performance, aiding in identifying sales patterns and tracking key performance indicators (KPIs). Finance Analytics evaluates financial performance, supports decision-making, and facilitates communication with stakeholders.
+2.**Finance Analytics:**
+** Create Profit and Loss (P&L) reports by Fiscal Year. Generate Profit and Loss (P&L) reports by Markets.
+
+Purpose: Sales Analytics empowers businesses to monitor and evaluate sales activities and performance, aiding in identifying sales patterns and tracking key performance indicators (KPIs). Finance Analytics evaluates financial performance, supports decision-making, and facilitates communication with stakeholders.
 
 **Importance:** Analyzing sales and finance data is crucial for identifying trends, supporting decision-making processes, benchmarking against industry peers and previous periods, and providing a foundation for budgeting and forecasting.
 
